@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F17EDE421F781B5000194595 /* MiPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiPlayground.playground; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F18598181F77A04A007C0DAB /* GPSCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GPSCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F185981B1F77A04A007C0DAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F185981D1F77A04A007C0DAB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +55,7 @@
 		F185981A1F77A04A007C0DAB /* GPSCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				F17EDE421F781B5000194595 /* MiPlayground.playground */,
 				F185981B1F77A04A007C0DAB /* AppDelegate.swift */,
 				F185981D1F77A04A007C0DAB /* ViewController.swift */,
 				F185981F1F77A04A007C0DAB /* Main.storyboard */,
